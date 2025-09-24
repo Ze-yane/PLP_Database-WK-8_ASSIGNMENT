@@ -36,11 +36,3 @@ Orders ↔ Products → many-to-many (via order_items)
 
 One order → one payment & one shipment
 
-How to Use
-
-Open MySQL Workbench.
-
-And run it.
-
-CREATE DATABASE ecommerce_db;
-USE ecommerce_db;
